@@ -27681,7 +27681,7 @@ k.aK()
 k.a6_(null,null,p)
 q.ch$!==$&&A.ad()
 q.ch$=k
-l=k}q.a0p(new A.Di(n,new A.Mx(new A.a_K("https://nomout-production.up.railway.app"),null),m,l,null))
+l=k}q.a0p(new A.Di(n,new A.Mx(new A.a_K("https://nomout-production.up.railway.app/api/v1"),null),m,l,null))
 q.M3()
 return A.O(null,r)}})
 return A.P($async$ay6,r)},
